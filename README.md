@@ -1,7 +1,8 @@
  # formularioHTML
 
-![numeros del 1 al 20](https://github.com/user-attachments/assets/fa8997f6-b3a0-417e-89f9-742c9fd016b1)
 
+![numeros del 1 al 20](https://github.com/user-attachments/assets/fa8997f6-b3a0-417e-89f9-742c9fd016b1)
+<img src="https://github.com/user-attachments/assets/fa8997f6-b3a0-417e-89f9-742c9fd016b1" width="300">
  
 
 Proyecto sencillo que contiene formularios HTML estáticos y páginas relacionadas.
